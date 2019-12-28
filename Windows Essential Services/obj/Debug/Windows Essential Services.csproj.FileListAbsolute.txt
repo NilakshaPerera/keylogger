@@ -11,3 +11,5 @@ D:\xampp\htdocs\Data\Projects\C#\KeyLogger\Windows Essential Services\obj\Debug\
 D:\xampp\htdocs\projects\c#\KeyLogger\source\Windows Essential Services\bin\Debug\Windows Essential Services.exe.config
 D:\xampp\htdocs\projects\c#\KeyLogger\source\Windows Essential Services\obj\Debug\Windows Essential Services.exe
 D:\xampp\htdocs\projects\c#\KeyLogger\source\Windows Essential Services\obj\Debug\Windows Essential Services.pdb
+D:\xampp\htdocs\projects\c#\KeyLogger\source\Windows Essential Services\bin\Debug\Windows Essential Services.exe
+D:\xampp\htdocs\projects\c#\KeyLogger\source\Windows Essential Services\bin\Debug\Windows Essential Services.pdb
